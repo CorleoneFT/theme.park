@@ -2,17 +2,17 @@
 :root {
     --main-bg: transparent;
     --logo: url("https://corleoneft.github.io/theme.park/CSS/addons/unraid/login-page/alien/logo/corleone.png") center no-repeat;
-    --text-color: #ffffff;
-    --input-color: #ffffff;
-    --link-color: #ffffff;
-    --link-color-hover: #ffffff;
-    --case-color: #ffffff;
-    --button-text-color: #ffffff;
+    --text-color: #FFFFFF;
+    --input-color: #FFFFFF;
+    --link-color: #FFFFFF;
+    --link-color-hover: #FFFFFF;
+    --case-color: #FFFFFF;
+    --button-text-color: #FFFFFF;
     --button-text-color-hover: #000;
-    --button-color: #ffffff;
-    --button-color2: #ffffff;
-    --button-color-hover: #ffffff;
-    --button-color2-hover: #ffffff;
+    --button-color: #FFFFFF;
+    --button-color2: #FFFFFF;
+    --button-color-hover: #FFFFFF;
+    --button-color2-hover: #FFFFFF;
     --input-font: 'Share Tech Mono', monospace;
     --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
     --div-background-color-15: rgba(0, 255, 111, 0.03);
