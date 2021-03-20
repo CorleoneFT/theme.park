@@ -1,9 +1,9 @@
 #!/bin/bash
-TYPE="retro-terminal"
-THEME="green.css"
-DOMAIN="gilbn.github.io"
+TYPE="alien"
+THEME="isolation_video.css"
+DOMAIN="corleoneft.github.io"
 ADD_JS="true"
-JS="custom_text_header.js"
+JS="isolation.js"
 DISABLE_THEME="false"
 
 echo -e "Variables set:\\n\
